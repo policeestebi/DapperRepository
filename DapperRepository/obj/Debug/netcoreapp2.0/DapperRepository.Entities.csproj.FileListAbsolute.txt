@@ -1,0 +1,9 @@
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\bin\Debug\netcoreapp2.0\DapperRepository.Entities.deps.json
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\bin\Debug\netcoreapp2.0\DapperRepository.Entities.dll
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\bin\Debug\netcoreapp2.0\DapperRepository.Entities.pdb
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.csprojResolveAssemblyReference.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.csproj.CoreCompileInputs.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.AssemblyInfoInputs.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.AssemblyInfo.cs
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.dll
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository\obj\Debug\netcoreapp2.0\DapperRepository.Entities.pdb

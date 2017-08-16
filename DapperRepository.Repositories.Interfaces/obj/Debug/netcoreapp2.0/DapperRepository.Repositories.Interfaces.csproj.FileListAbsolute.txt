@@ -1,0 +1,9 @@
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\bin\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.deps.json
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\bin\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.dll
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\bin\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.pdb
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.AssemblyInfoInputs.cache
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.AssemblyInfo.cs
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.dll
+C:\Users\enrz\Desktop\DapperRepository\DapperRepository.Repositories.Interfaces\obj\Debug\netcoreapp2.0\DapperRepository.Repositories.Interfaces.pdb
